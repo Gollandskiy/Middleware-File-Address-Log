@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middleware-File-Address-Log", "Middleware-File-Address-Log.csproj", "{EF716503-0F40-4F68-82B1-37ECE03F8805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF716503-0F40-4F68-82B1-37ECE03F8805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF716503-0F40-4F68-82B1-37ECE03F8805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF716503-0F40-4F68-82B1-37ECE03F8805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF716503-0F40-4F68-82B1-37ECE03F8805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E06522-2442-49DB-9B74-69F09C4D2BF5}
+	EndGlobalSection
+EndGlobal
